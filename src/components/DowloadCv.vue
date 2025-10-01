@@ -30,10 +30,9 @@
           </button>
 
           <a
-            :href="import.meta.env.BASE_URL + 'CV-Pau-Martinez.pdf'"
+            href="CV-Pau-Martinez.pdf"
             download="CV-Pau-Martinez.pdf"
             class="px-4 py-2 bg-blue-600 text-white rounded-lg hover:bg-blue-700 transition"
-            @click="openModal = false"
           >
             {{ t("navbar.modal.dowload") }}
           </a>
@@ -54,8 +53,14 @@ const { t } = useI18n();
 
 <style>
 @keyframes fadeIn {
-  from { opacity: 0; transform: scale(0.95); }
-  to { opacity: 1; transform: scale(1); }
+  from {
+    opacity: 0;
+    transform: scale(0.95);
+  }
+  to {
+    opacity: 1;
+    transform: scale(1);
+  }
 }
 .animate-fadeIn {
   animation: fadeIn 0.2s ease-out;
