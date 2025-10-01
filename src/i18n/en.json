@@ -1,0 +1,52 @@
+{
+  "navbar": {
+    "home": "Home",
+    "about": "About Me",
+    "skills": "Skills",
+    "language": "Language",
+    "dowload": "Download CV",
+    "modal": {
+      "title": "Download CV",
+      "text1": "Do you want to download the CV?",
+      "text2": "Select 'Download' to get the PDF file or 'Cancel' to close.",
+      "dowload": "Download",
+      "cancel": "Cancel"
+    }
+  },
+  "presentation": {
+    "name": "I'm Pau Martinez",
+    "role": "Full Stack Developer",
+    "contact": "Contact Information"
+  },
+  "social": {
+    "linkedin": "LinkedIn",
+    "github": "GitHub",
+    "email": "Email"
+  },
+  "about": {
+    "title": "About Me",
+    "description": "I am passionate about web development and technology in all its forms. Trained in DAW, I enjoy creating solutions that combine functionality, design, and user experience, working with technologies such as Java, Spring MVC, JavaScript, React, and CSS.\n\nI have had the opportunity to work on diverse projects, from WordPress integrated with Laravel backends to Vue applications, always seeking to learn and experiment with every line of code.\n\nCurrently, I am exploring .NET and Python, expanding my toolkit to tackle new challenges. Beyond software, I am interested in hardware and technological innovation, and I am motivated to apply new technologies in real projects that have a tangible impact.\n\nMy goal is to keep learning, create elegant and useful solutions, and enjoy the process of turning ideas into reality."
+  },
+  "skills": {
+    "title": "Skills",
+    "description": "Here are some of the technologies I have worked with:",
+    "java": "Java",
+    "php": "PHP",
+    "csharp": "C#",
+    "c": "C",
+    "javascript": "JavaScript",
+    "vue": "Vue.js",
+    "laravel": "Laravel",
+    "wordpress": "WordPress",
+    "html": "HTML",
+    "css": "CSS",
+    "git": "Git",
+    "bootstrap": "Bootstrap"
+  },
+  "languages": {
+    "title": "Languages",
+    "español": "Spanish",
+    "ingles": "English",
+    "catalan": "Catalan"
+  }
+}

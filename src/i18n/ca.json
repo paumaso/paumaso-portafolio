@@ -1,0 +1,52 @@
+{
+  "navbar": {
+    "home": "Inici",
+    "about": "Sobre mi",
+    "skills": "Habilitats",
+    "language": "Idioma",
+    "dowload": "Descarregar CV",
+    "modal": {
+      "title": "Descarregar CV",
+      "text1": "Vols descarregar el CV?",
+      "text2": "Selecciona 'Descarregar' per obtenir el fitxer PDF o 'Cancel·lar' per tancar.",
+      "dowload": "Descarregar",
+      "cancel": "Cancel·lar"
+    }
+  },
+  "presentation": {
+    "name": "Soc Pau Martinez",
+    "role": "Desenvolupador Full Stack",
+    "contact": "Dades de contacte"
+  },
+  "social": {
+    "linkedin": "LinkedIn",
+    "github": "GitHub",
+    "email": "Correu electrònic"
+  },
+  "about": {
+    "title": "Sobre mi",
+    "description": "Soc apassionat pel desenvolupament web i la tecnologia en totes les seves formes. Format en DAW, gaudeixo creant solucions que combinen funcionalitat, disseny i experiència d'usuari, treballant amb tecnologies com Java, Spring MVC, JavaScript, React i CSS.\n\nHe tingut l'oportunitat de desenvolupar projectes diversos, des de WordPress integrats amb backends en Laravel fins a aplicacions amb Vue, buscant sempre aprendre i experimentar en cada línia de codi.\n\nActualment estic explorant .NET i Python, ampliant la meva caixa d'eines per afrontar nous reptes. Més enllà del programari, m'interessa el maquinari i la innovació tecnològica, i em motiva aplicar noves tecnologies en projectes reals que tinguin un impacte tangible.\n\nEl meu objectiu és continuar aprenent, crear solucions elegants i útils, i gaudir del procés de transformar idees en realitat."
+  },
+  "skills": {
+    "title": "Habilitats",
+    "description": "Aquí tens algunes de les tecnologies amb les que he treballat:",
+    "java": "Java",
+    "php": "PHP",
+    "csharp": "C#",
+    "c": "C",
+    "javascript": "JavaScript",
+    "vue": "Vue.js",
+    "laravel": "Laravel",
+    "wordpress": "WordPress",
+    "html": "HTML",
+    "css": "CSS",
+    "git": "Git",
+    "bootstrap": "Bootstrap"
+  },
+  "languages": {
+    "title": "Idiomes",
+    "español": "Espanyol",
+    "ingles": "Anglès",
+    "catalan": "Català"
+  }
+}

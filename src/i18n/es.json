@@ -1,0 +1,52 @@
+{
+  "navbar": {
+    "home": "Inicio",
+    "about": "Sobre mí",
+    "skills": "Habilidades",
+    "language": "Idioma",
+    "dowload": "Descargar CV",
+    "modal": {
+      "title": "Descargar CV",
+      "text1": "¿Quieres descargar el CV?",
+      "text2": "Selecciona 'Descargar' para obtener el archivo PDF o 'Cancelar' para cerrar.",
+      "dowload": "Descargar",
+      "cancel": "Cancelar"
+    }
+  },
+  "presentation": {
+    "name": "Soy Pau Martinez",
+    "role": "Desarrollador Full Stack",
+    "contact": "Datos de contacto"
+  },
+  "social": {
+    "linkedin": "LinkedIn",
+    "github": "GitHub",
+    "email": "Correo electrónico"
+  },
+  "about": {
+    "title": "Sobre mí",
+    "description": "Soy un apasionado del desarrollo web y la tecnología en todas sus formas. Formado en DAW, disfruto creando soluciones que combinan funcionalidad, diseño y experiencia de usuario, trabajando con tecnologías como Java, Spring MVC, JavaScript, React y CSS.\n\nHe tenido la oportunidad de desarrollar proyectos variados, desde WordPress integrados con backends en Laravel hasta aplicaciones con Vue, siempre buscando aprender y experimentar en cada línea de código.\n\nActualmente estoy explorando .NET y Python, ampliando mi caja de herramientas para enfrentar nuevos desafíos. Más allá del software, me interesa el hardware y la innovación tecnológica, y me motiva aplicar nuevas tecnologías en proyectos reales que tengan un impacto tangible.\n\nMi objetivo es seguir aprendiendo, crear soluciones elegantes y útiles, y disfrutar del proceso de transformar ideas en realidad."
+  },
+  "skills": {
+    "title": "Habilidades",
+    "description": "Aquí tienes algunas de las tecnologías con las que he trabajado:",
+    "java": "Java",
+    "php": "PHP",
+    "csharp": "C#",
+    "c": "C",
+    "javascript": "JavaScript",
+    "vue": "Vue.js",
+    "laravel": "Laravel",
+    "wordpress": "WordPress",
+    "html": "HTML",
+    "css": "CSS",
+    "git": "Git",
+    "bootstrap": "Bootstrap"
+  },
+  "languages": {
+    "title": "Idiomas",
+    "español": "Español",
+    "ingles": "Inglés",
+    "catalan": "Catalán"
+  }
+}

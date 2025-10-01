@@ -1,0 +1,23 @@
+@import "tailwindcss";
+
+@theme {
+  --color-background: #e0e1dd;
+  --color-primary-dark: #1E3A8A;   /* Azul profundo, títulos o acentos importantes */
+  --color-primary: #3B82F6;        /* Azul medio, botones y enlaces principales */
+  --color-primary-light: #93C5FD;  /* Azul claro, fondos suaves o hover */
+  
+  --color-surface: #F3F4F6;        /* Gris neutro, tarjetas, backgrounds secundarios */
+  
+  --color-text: #1E293B;           /* Gris azulado oscuro para texto principal */
+  --color-text-muted: #64748B;     /* Gris medio para subtítulos o descripciones */
+}
+
+html, body {
+  overflow-x: hidden;
+  overflow-y: auto;
+}
+
+html {
+  scroll-behavior: smooth;
+  scroll-padding-top: 100px;
+}
