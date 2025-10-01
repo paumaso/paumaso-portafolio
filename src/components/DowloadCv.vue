@@ -48,7 +48,7 @@ import { ref } from "vue";
 import { useI18n } from "vue-i18n";
 
 const openModal = ref(false);
-const cvPath = "/CV-Pau-Martinez.pdf";
+const cvPath = "CV-Pau-Martinez.pdf";
 
 const { t } = useI18n();
 </script>
