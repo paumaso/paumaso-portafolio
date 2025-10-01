@@ -30,7 +30,7 @@
           </button>
 
           <a
-            :href="cv"
+            :href="cvPath"
             download="CV-Pau-Martinez.pdf"
             class="px-4 py-2 bg-blue-600 text-white rounded-lg hover:bg-blue-700 transition"
             @click="openModal = false"
@@ -46,7 +46,6 @@
 <script setup>
 import { ref } from "vue";
 import { useI18n } from "vue-i18n";
-import cv from "./assets/CV-Pau-Martinez.pdf";
 
 const openModal = ref(false);
 const cvPath = "/CV-Pau-Martinez.pdf";
